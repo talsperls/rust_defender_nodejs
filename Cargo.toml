@@ -1,0 +1,19 @@
+[package]
+name = "proxy-test"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+syn = "2.0.48
+syn = "2.0.48"
+proc-macro2 = "1.0.76"
+unicode-ident = "1.0.12"
+quote = "1.0.35"
+proc-macro2 = "1.0.76"
+unicode-ident = "1.0.12"
+
+
+
+"
